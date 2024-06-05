@@ -7,19 +7,23 @@ HR Records: Absenteeism, job satisfaction scores, performance reviews, and other
 Workplace Metrics: Workload, working hours, job role, and department.
 Demographics: Age, gender, education level, and tenure.
 External Factors: Economic indicators, social factors, and personal life events if available.
+
 **2. Data Preprocessing**
 Cleaning: Handle missing values, duplicates, and inconsistencies.
 Normalization: Scale features to ensure uniformity.
 Encoding: Convert categorical variables into numerical ones using techniques like one-hot encoding.
 Feature Engineering: Create new features that might be relevant, such as stress levels based on workload or sentiment analysis from employee feedback.
+
 **3. Model Selection**
 Classification Algorithms: Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), Gradient Boosting, Neural Networks.
 Ensemble Methods: Combining multiple models to improve accuracy.
 Evaluation Metrics: Accuracy, precision, recall, F1-score, ROC-AUC.
+
 **4. Model Training**
 Splitting Data: Divide data into training and test sets (typically 70-30 or 80-20 split).
 Cross-Validation: Use techniques like k-fold cross-validation for better model validation.
 Hyperparameter Tuning: Optimize model parameters using grid search or randomized search.
+
 **5. Model Evaluation**
 Confusion Matrix: To understand the true positives, false positives, true negatives, and false negatives.
 ROC Curve: To evaluate the trade-off between sensitivity and specificity.
