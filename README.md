@@ -1,7 +1,7 @@
 # Mental-Health-Prediction-among-Working-class
 Predicting mental health issues among the working sector using machine learning involves several steps, including data collection, preprocessing, model selection, training, evaluation, and deployment. Here’s a structured approach to tackle this problem:
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fmental-health-awareness&psig=AOvVaw1MPX_PnM0SsZJD6kG6L4pW&ust=1717678066253000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi-_sq_xIYDFQAAAAAdAAAAABAE)
+![](https://media.istockphoto.com/id/1363774646/vector/mental-health.jpg?s=612x612&w=0&k=20&c=tez61I2L6Dp9WGPS2qLHJ9G-9sDRM8Uw3mJJEj1NqFE=)
 
 
 **1. Data Collection**
